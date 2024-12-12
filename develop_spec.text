@@ -1,0 +1,6 @@
+java : openjdk17
+tomcat : tomcat 9.0
+database : mysql
+tool : eclipse IDE
+design : bootstrap css
+front : html5, jsp, jquery
